@@ -1,4 +1,4 @@
-# image-resizer
+# image-resizer | Gophers Aachen Workshop 7th Nov 2018
 Commandline tool for resizing images. Exercise from the [Gophers Aachen](https://github.com/gophersaachen) workshop.
 
 
